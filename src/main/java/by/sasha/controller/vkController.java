@@ -20,7 +20,7 @@ public class vkController
         LOGGER.info("VKONTAKTE");
         LOGGER.info("VKONTAKTE body {}", requestBody);
         LOGGER.info("VKONTAKTE headers {}", headers);
-        return "46e1aa81";
+        return "46e1aa82";
     }
 
     @CrossOrigin
